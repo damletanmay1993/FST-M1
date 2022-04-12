@@ -1,0 +1,68 @@
+Status: PASS
+Time Taken: 370
+Size: 714
+Timestamp: Thu Apr 07 12:15:37 IST 2022
+TestStep: Keys
+
+----------------- Messages ------------------------------
+
+----------------- Properties ------------------------------
+HTTP Version: HTTP/1.1
+Endpoint: https://api.github.com
+Method: POST
+StatusCode: 201
+URL: https://api.github.com/user/keys
+
+---------------- Request ---------------------------
+Authorization: [Bearer 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]
+Connection: [Keep-Alive]
+User-Agent: [Apache-HttpClient/4.5.2 (Java/16.0.1)]
+Host: [api.github.com]
+Accept-Encoding: [gzip,deflate]
+Content-Length: [616]
+Content-Type: [application/json]
+
+POST https://api.github.com/user/keys HTTP/1.1
+Accept-Encoding: gzip,deflate
+Content-Type: application/json
+Authorization: Bearer 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
+Content-Length: 616
+Host: api.github.com
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.2 (Java/16.0.1)
+
+{
+	"title":"KeyTest",
+	"key":"ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQC8kKfXerp+c//D2wzEcYXpel9Q/etkXDSGtz33YsUQ231nlujmxfQsNal6dVi1bt2WziRsjO4Yd8K39z0pmjsnCY7878B2IKN0vMCYqPiYAfXCi2YBcVhFIfvak0fArlE7PRf884ho2sx0M+NfO7D0T8IARX+OGch8id4JMvYNUgQL7WC6dI3AduIQFFPaEprbbFcPJS84g8qO8UHEULvqsH4SDv/recbY0Okld9GGaDtAX/Lj9IC7TQZ+REA6qIikTBnmo/sggSM5Oky3NH5u+oFj4sCcRlsCIhQr0Hz91t4Uui0xCCZ1fk8uic0rHKsem78KKY8TqDajydGX1FJIpFtQEAMbyVcIHgi8xlatmJAYXO+bAW5ucpHO5DH02sKOydm6ERlzzixxA3EaZBwyA0WWsqOK+1x1vgrJmTNgwk0t71N7ywVMXxv+PWa5KsmjQpmhT8zRy4PRiPxqZhYK1q+NBLYCnTOOT+l6EqxIp7wO/cHm+nw9qWnrdtZWXVU= gmx\\0025qi744@WIN-E7IDLVKLSVI"
+}
+
+---------------- Response --------------------------
+X-Accepted-OAuth-Scopes: [admin:public_key, write:public_key]
+Server: [GitHub.com]
+X-RateLimit-Resource: [core]
+X-RateLimit-Used: [20]
+Access-Control-Allow-Origin: [*]
+X-Frame-Options: [deny]
+Referrer-Policy: [origin-when-cross-origin, strict-origin-when-cross-origin]
+Access-Control-Expose-Headers: [ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Resource, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, X-GitHub-SSO, X-GitHub-Request-Id, Deprecation, Sunset]
+Strict-Transport-Security: [max-age=31536000; includeSubdomains; preload]
+X-RateLimit-Remaining: [4980]
+X-GitHub-Media-Type: [github.v3; format=json]
+Content-Security-Policy: [default-src 'none']
+#status#: [HTTP/1.1 201 Created]
+Content-Length: [714]
+X-XSS-Protection: [0]
+Content-Type: [application/json; charset=utf-8]
+X-GitHub-Request-Id: [E04B:4616:1961D3:218B21:624E8891]
+X-Content-Type-Options: [nosniff]
+X-RateLimit-Reset: [1649314179]
+Date: [Thu, 07 Apr 2022 06:45:37 GMT]
+Cache-Control: [private, max-age=60, s-maxage=60]
+ETag: ["3d4197981a47eef93fca1cfde55131123020cfabb5689b6c06688288b3bc9370"]
+Vary: [Accept, Authorization, Cookie, X-GitHub-OTP, Accept-Encoding, Accept, X-Requested-With]
+X-RateLimit-Limit: [5000]
+X-OAuth-Scopes: [admin:public_key, user:email]
+github-authentication-token-expiration: [2022-05-07 06:14:08 UTC]
+Location: [https://api.github.com/user/keys/64694414]
+
+{"id":64694414,"key":"ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQC8kKfXerp+c//D2wzEcYXpel9Q/etkXDSGtz33YsUQ231nlujmxfQsNal6dVi1bt2WziRsjO4Yd8K39z0pmjsnCY7878B2IKN0vMCYqPiYAfXCi2YBcVhFIfvak0fArlE7PRf884ho2sx0M+NfO7D0T8IARX+OGch8id4JMvYNUgQL7WC6dI3AduIQFFPaEprbbFcPJS84g8qO8UHEULvqsH4SDv/recbY0Okld9GGaDtAX/Lj9IC7TQZ+REA6qIikTBnmo/sggSM5Oky3NH5u+oFj4sCcRlsCIhQr0Hz91t4Uui0xCCZ1fk8uic0rHKsem78KKY8TqDajydGX1FJIpFtQEAMbyVcIHgi8xlatmJAYXO+bAW5ucpHO5DH02sKOydm6ERlzzixxA3EaZBwyA0WWsqOK+1x1vgrJmTNgwk0t71N7ywVMXxv+PWa5KsmjQpmhT8zRy4PRiPxqZhYK1q+NBLYCnTOOT+l6EqxIp7wO/cHm+nw9qWnrdtZWXVU=","url":"https://api.github.com/user/keys/64694414","title":"KeyTest","verified":true,"created_at":"2022-04-07T06:45:37Z","read_only":false}
