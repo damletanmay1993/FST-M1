@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:soapui-workspace name="My Workspace" soapui-version="6.0.0" cid="db85f62c-5356-46e0-9ee2-2b2066a9ea57" xmlns:con="http://eviware.com/soapui/config">
+  <con:settings/>
+  <con:project name="Project 1" lastOpened="2022-04-07T11:11:02.486+05:30">C:/Users/0025QI744/Project-1-readyapi-project.xml</con:project>
+  <con:project name="REST Project 1" lastOpened="2022-03-30T12:41:09.972+05:30">C:/Users/0025QI744/REST-Project-1-readyapi-project.xml</con:project>
+  <con:project name="REST Project 2" lastOpened="2022-03-31T11:54:22.159+05:30">C:/Users/0025QI744/REST-Project-2-readyapi-project.xml</con:project>
+  <con:project name="REST Project 3" lastOpened="2022-03-31T11:55:13.131+05:30">C:/Users/0025QI744/REST-Project-3-readyapi-project.xml</con:project>
+  <con:project name="REST Project 4" lastOpened="2022-04-07T12:15:15.861+05:30">C:/Users/0025QI744/GitProject.xml</con:project>
+  <con:recentItemCollection>
+    <con:moduleId>SoapUiNGModule</con:moduleId>
+    <con:itemId>1fb84cbb-705f-497f-a008-46674369e55f</con:itemId>
+    <con:itemId>f8e7b221-c52c-4b75-aa89-69a758185bbf</con:itemId>
+    <con:itemId>561eaf1c-3ebe-4b59-88f3-cc712c00f835</con:itemId>
+    <con:itemId>d9268273-a8f8-4092-9e79-8fb9e708dca3</con:itemId>
+    <con:itemId>b9a3d28d-d47f-4a0d-85fa-93b4f07bbeea</con:itemId>
+  </con:recentItemCollection>
+  <con:expandedTreeNodes>
+    <con:project path="C:\Users\0025QI744\Project-1-readyapi-project.xml">
+      <nodeId>9dfd31ef-ef1f-44c8-9c57-f477aa9475c6</nodeId>
+      <nodeId>522eb466-265f-474e-b879-0218636aec36apis</nodeId>
+      <nodeId>5539165b-77de-4eb3-9ff5-5527f58639ea</nodeId>
+      <nodeId>6018aad8-50c0-4eb2-8dc9-d001fa4e357b</nodeId>
+      <nodeId>31b50cdb-1b8e-461c-b6eb-ab8e6242328c</nodeId>
+      <nodeId>522eb466-265f-474e-b879-0218636aec36soapui</nodeId>
+      <nodeId>494fc481-fe60-4a2f-a3b8-a28b56ba7fa3</nodeId>
+    </con:project>
+    <con:project path="C:\Users\0025QI744\REST-Project-1-readyapi-project.xml">
+      <nodeId>edb74bbd-1e7a-4c59-ab48-72e5862a1353</nodeId>
+      <nodeId>c139371e-1ba7-4ada-ab27-a588068f02f4</nodeId>
+      <nodeId>4a458046-02c1-461b-906c-319db2d0e02asoapui</nodeId>
+    </con:project>
+    <con:project path="C:\Users\0025QI744\REST-Project-2-readyapi-project.xml">
+      <nodeId>17781fa0-fbfb-4b04-87bd-afe5f8ce9e4e</nodeId>
+      <nodeId>fb508f38-a996-4f91-aa36-0cfaf38a2c5csoapui</nodeId>
+      <nodeId>6b5c3beb-f0d3-4f14-97b7-fc69a3d6a877</nodeId>
+      <nodeId>8acfdc27-1f6c-4b8c-b1f7-d361b0ed7944</nodeId>
+      <nodeId>d1c49585-c9b3-4e8d-a0d8-765c1d1afd25</nodeId>
+      <nodeId>01c24d28-255a-4980-8cc7-82186de15720</nodeId>
+      <nodeId>6e5d1ee9-a488-41d0-a729-1407df47bfe7</nodeId>
+      <nodeId>c3b483cc-6d7e-409c-8df2-eaa16e09232b</nodeId>
+      <nodeId>fb508f38-a996-4f91-aa36-0cfaf38a2c5capis</nodeId>
+      <nodeId>296b6224-11a1-41f6-a636-b0886a063d48</nodeId>
+    </con:project>
+    <con:project path="C:\Users\0025QI744\REST-Project-3-readyapi-project.xml">
+      <nodeId>6d5cfd56-2231-422b-9225-2d3e0ad977f7soapui</nodeId>
+      <nodeId>0db1b69f-0304-4104-9f31-1bee1366663d</nodeId>
+      <nodeId>f4db3d48-4d27-47f7-9f7a-ec89d05d95de</nodeId>
+    </con:project>
+    <con:project path="C:\Users\0025QI744\GitProject.xml">
+      <nodeId>7ad91bf0-45ca-4539-9f8b-9c581f107b26</nodeId>
+      <nodeId>c956d9df-4c94-49f2-aff2-308f1e801a38</nodeId>
+      <nodeId>a4bf6194-7d16-4bb0-9494-832a6b78bfc4soapui</nodeId>
+      <nodeId>b9a3d28d-d47f-4a0d-85fa-93b4f07bbeea</nodeId>
+      <nodeId>e1f702ff-16ed-476d-b730-17c76be2b347</nodeId>
+      <nodeId>fbeaf6fe-aeac-41b6-99bc-13cc3c4c0d51</nodeId>
+      <nodeId>3ffa4123-22a6-4385-bef8-87dc2b787c07</nodeId>
+      <nodeId>b989a9e3-45e8-4fc6-a0b2-ddd39bdaf51b</nodeId>
+      <nodeId>a4bf6194-7d16-4bb0-9494-832a6b78bfc4apis</nodeId>
+      <nodeId>000f9f0a-90e3-4683-ac59-ee3a55348ce6</nodeId>
+      <nodeId>a4bf6194-7d16-4bb0-9494-832a6b78bfc4</nodeId>
+      <nodeId>d5105e51-a2c2-4147-b157-6121c1c0238c</nodeId>
+    </con:project>
+  </con:expandedTreeNodes>
+  <con:overridenPropertyValuesCollection/>
+</con:soapui-workspace>
